@@ -1,0 +1,22 @@
+{
+  "name": "amcharts4-webpack-template",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "webpack serve --open xdg-open",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Linkware",
+  "devDependencies": {
+    "@amcharts/amcharts4": "*",
+    "copy-webpack-plugin": "6",
+    "find-free-port-sync": "*",
+    "webpack": "4",
+    "webpack-cli": "4",
+    "webpack-dev-server": "3"
+  }
+}
