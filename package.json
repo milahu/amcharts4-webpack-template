@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "Linkware",
+  "license": "",
   "devDependencies": {
     "@amcharts/amcharts4": "*",
     "copy-webpack-plugin": "6",
